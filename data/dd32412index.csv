@@ -1,0 +1,53 @@
+"Chassis"
+"Closure Systems"
+"Electrical"
+"Engine"
+"Exterior Components"
+"Forecasting uses statistical trends in your data to predict future values. It automatically tests multiple forecasting models against the specified data items and then selects the best model for each one.
+
+Forecast: Gross Labor Amount
+- By July 10, 2018 (24 time periods), Gross Labor Amount is forecast to be $1.7K with a 95% confidence interval between -$12K and $16K. The forecast represents an approximate increase of $880 (107.17%) from the June 16, 2018 value of $822.
+- The selected model is Seasonal Exponential Smoothing."
+"Forecasting uses statistical trends in your data to predict future values. It automatically tests multiple forecasting models against the specified data items and then selects the best model for each one.
+
+Forecast: Gross Labor Amount
+- By July 12, 2018 (24 time periods), Gross Labor Amount is forecast to be $1.5K with a 95% confidence interval between -$1.8K and $4.9K. The forecast represents an approximate increase of $1.4K (1,709.33%) from the June 18, 2018 value of $84.
+- The selected model is Seasonal Exponential Smoothing."
+"Forecasting uses statistical trends in your data to predict future values. It automatically tests multiple forecasting models against the specified data items and then selects the best model for each one.
+
+Forecast: Gross Labor Amount
+- By July 12, 2018 (24 time periods), Gross Labor Amount is forecast to be $5K with a 95% confidence interval between -$5K and $15K. The forecast represents an approximate increase of $4.9K (2,954.38%) from the June 18, 2018 value of $165.
+- The selected model is Winters Method (Multiplicative)."
+"Forecasting uses statistical trends in your data to predict future values. It automatically tests multiple forecasting models against the specified data items and then selects the best model for each one.
+
+Forecast: Gross Labor Amount
+- By July 12, 2018 (24 time periods), Gross Labor Amount is forecast to be $954 with a 95% confidence interval between -$6.7K and $8.6K. The forecast represents an approximate increase of $802 (527.57%) from the June 18, 2018 value of $152.
+- The selected model is Seasonal Exponential Smoothing."
+"Forecasting uses statistical trends in your data to predict future values. It automatically tests multiple forecasting models against the specified data items and then selects the best model for each one.
+
+Forecast: Gross Labor Amount
+- By July 18, 2018 (24 time periods), Gross Labor Amount is forecast to be -$1.5K with a 95% confidence interval between -$52K and $49K. The forecast represents an approximate decrease of $1.7K (1,398.51%) from the June 24, 2018 value of $119.
+- The selected model is Seasonal Exponential Smoothing."
+"Forecasting uses statistical trends in your data to predict future values. It automatically tests multiple forecasting models against the specified data items and then selects the best model for each one.
+
+Forecast: Gross Labor Amount
+- By July 18, 2018 (24 time periods), Gross Labor Amount is forecast to be $942 with a 95% confidence interval between -$13K and $15K. The forecast represents an approximate increase of $823 (691.83%) from the June 24, 2018 value of $119.
+- The selected model is Winters Method (Multiplicative)."
+"Forecasting uses statistical trends in your data to predict future values. It automatically tests multiple forecasting models against the specified data items and then selects the best model for each one.
+
+Forecast: Gross Labor Amount
+- By July 5, 2018 (24 time periods), Gross Labor Amount is forecast to be $284 with a 95% confidence interval between -$61 and $629. The forecast represents an approximate increase of $240 (543.58%) from the June 11, 2018 value of $44.
+- The selected model is Simple Exponential Smoothing."
+"Forecasting uses statistical trends in your data to predict future values. It automatically tests multiple forecasting models against the specified data items and then selects the best model for each one.
+
+Forecast: Gross Labor Amount
+- By July 8, 2018 (24 time periods), Gross Labor Amount is forecast to be $5.3K with a 95% confidence interval between $2.9K and $7.6K. The forecast represents an approximate increase of $4.9K (1,223.63%) from the June 14, 2018 value of $397.
+- The selected model is ARIMA:  Gross Labor Amount  ~ P = ((1,2)(7))   Q = (7,14)   NOINT."
+"Forecasting uses statistical trends in your data to predict future values. It automatically tests multiple forecasting models against the specified data items and then selects the best model for each one.
+
+Forecast: Gross Labor Amount
+- By July 9, 2018 (24 time periods), Gross Labor Amount is forecast to be $671 with a 95% confidence interval between -$2.5K and $3.8K. The forecast represents an approximate increase of $340 (102.73%) from the June 15, 2018 value of $331.
+- The selected model is Seasonal Exponential Smoothing."
+"HVAC/Cooling"
+"Interior"
+"Transmission"

@@ -1,0 +1,27 @@
+Costs by Primary Labor Group
+  Interactivity for this object is limited for the following reasons:
+    * Linked selection actions are not supported.
+    * Navigation in the hierarchy 'Labor Hierarchy' is limited to the levels 'Primary Labor Group, Primary Labor Code, Make'.
+  These reasons might only be a problem because of these data complexities:
+    * The basic interactive query has exceeded the data limit.
+
+Costs by Labor Code
+  Interactivity for this object is limited for the following reasons:
+    * The data to support actions could not be retrieved. Query limit exceeded: 42900 queries required. Query limit = 20000.
+  These reasons might only be a problem because of these data complexities:
+    * This object uses a data item, filter, or rank that references a parameter.
+    * This object uses a rank.
+
+Cost by Production Date
+  Interactivity for this object is limited for the following reasons:
+    * The data to support actions could not be retrieved. Query limit exceeded: 2098800 queries required. Query limit = 20000.
+  These reasons might only be a problem because of these data complexities:
+    * This object uses a data item, filter, or rank that references a parameter.
+    * This object uses an aggregate measure.
+
+Product Detail List
+  Interactivity for this object is limited for the following reasons:
+    * The set of possible values for parameter "Top Count" could not be derived. Parameters must be bound to data.
+  These reasons might only be a problem because of these data complexities:
+    * This object uses a data item, filter, or rank that references a parameter.
+    * This object uses a rank.

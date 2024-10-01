@@ -1,0 +1,53 @@
+"Chassis"
+"Closure Systems"
+"Electrical"
+"Engine"
+"Exterior Components"
+"Forecasting uses statistical trends in your data to predict future values. It automatically tests multiple forecasting models against the specified data items and then selects the best model for each one.
+
+Forecast: Gross Material Amount
+- By July 12, 2018 (24 time periods), Gross Material Amount is forecast to be $13K with a 95% confidence interval between -$24K and $49K. The forecast represents an approximate increase of $13K from the June 18, 2018 value of $0.
+- The selected model is Seasonal Exponential Smoothing."
+"Forecasting uses statistical trends in your data to predict future values. It automatically tests multiple forecasting models against the specified data items and then selects the best model for each one.
+
+Forecast: Gross Material Amount
+- By July 12, 2018 (24 time periods), Gross Material Amount is forecast to be $7.4K with a 95% confidence interval between -$9.6K and $24K. The forecast represents an approximate increase of $3.3K (81.60%) from the June 18, 2018 value of $4.1K.
+- The selected model is Seasonal Exponential Smoothing."
+"Forecasting uses statistical trends in your data to predict future values. It automatically tests multiple forecasting models against the specified data items and then selects the best model for each one.
+
+Forecast: Gross Material Amount
+- By July 18, 2018 (24 time periods), Gross Material Amount is forecast to be -$17K with a 95% confidence interval between -$91K and $56K. The forecast represents an approximate decrease of $18K (5,315.94%) from the June 24, 2018 value of $331.
+- The selected model is Seasonal Exponential Smoothing."
+"Forecasting uses statistical trends in your data to predict future values. It automatically tests multiple forecasting models against the specified data items and then selects the best model for each one.
+
+Forecast: Gross Material Amount
+- By July 5, 2018 (24 time periods), Gross Material Amount is forecast to be $1.1K with a 95% confidence interval between -$2.7K and $4.8K. The forecast represents an approximate increase of $1K (11,880.22%) from the June 11, 2018 value of $8.8.
+- The selected model is Seasonal Exponential Smoothing."
+"Forecasting uses statistical trends in your data to predict future values. It automatically tests multiple forecasting models against the specified data items and then selects the best model for each one.
+
+Forecast: Gross Material Amount
+- By July 8, 2018 (24 time periods), Gross Material Amount is forecast to be $4.8K with a 95% confidence interval between -$5K and $15K. The forecast represents an approximate increase of $4.3K (756.07%) from the June 14, 2018 value of $565.
+- The selected model is Seasonal Exponential Smoothing."
+"Forecasting uses statistical trends in your data to predict future values. It automatically tests multiple forecasting models against the specified data items and then selects the best model for each one.
+
+Forecast: Gross Material Amount
+- By July 9, 2018 (24 time periods), Gross Material Amount is forecast to be $6.3K with a 95% confidence interval between -$2.4K and $15K. The forecast represents an approximate increase of $6.2K (7,792.30%) from the June 15, 2018 value of $80.
+- The selected model is Winters Method (Additive)."
+"Forecasting uses statistical trends in your data to predict future values. It automatically tests multiple forecasting models against the specified data items and then selects the best model for each one. Some forecasting models include delayed effects, in which case the predicted values will not begin at the start of the Claim Processed Date axis.
+
+Forecast: Gross Material Amount
+- By July 10, 2018 (24 time periods), Gross Material Amount is forecast to be -$16K with a 95% confidence interval between -$94K and $62K. The forecast represents an approximate decrease of $16K (10,453.42%) from the June 16, 2018 value of $154.
+- The selected model is ARIMA:  Gross Material Amount  ~ P = (7)  D = (1)  Q = ((1)(7))   NOINT."
+"Forecasting uses statistical trends in your data to predict future values. It automatically tests multiple forecasting models against the specified data items and then selects the best model for each one. Some forecasting models include delayed effects, in which case the predicted values will not begin at the start of the Claim Processed Date axis.
+
+Forecast: Gross Material Amount
+- By July 12, 2018 (24 time periods), Gross Material Amount is forecast to be -$15K with a 95% confidence interval between -$67K and $37K. The forecast represents an approximate decrease of $15K (27,454.98%) from the June 18, 2018 value of $55.
+- The selected model is ARIMA:  Gross Material Amount  ~ P = (7)  D = (1)  Q = ((1)(7))   NOINT."
+"Forecasting uses statistical trends in your data to predict future values. It automatically tests multiple forecasting models against the specified data items and then selects the best model for each one. Some forecasting models include delayed effects, in which case the predicted values will not begin at the start of the Claim Processed Date axis.
+
+Forecast: Gross Material Amount
+- By July 18, 2018 (24 time periods), Gross Material Amount is forecast to be -$189K with a 95% confidence interval between -$623K and $246K. The forecast represents an approximate decrease of $189K (57,094.63%) from the June 24, 2018 value of $331.
+- The selected model is ARIMA:  Gross Material Amount  ~ P = ((1,2)(7,14))  D = (1)   NOINT."
+"HVAC/Cooling"
+"Interior"
+"Transmission"
